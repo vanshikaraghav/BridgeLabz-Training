@@ -217,3 +217,31 @@ BridgeLabz-Training
 - Implement stack operations (push, pop, peek)
 - Implement a queue using stack
 - Insert, update, and delete elements in HashMap
+
+### Day 25 :- 16-Jan-2026 (Friday) 
+- Implemented sorting algorithms from scratch
+- Compared time and space complexities
+- Analyzed best, average, and worst-case scenarios
+
+### Day 26 :- 17-Jan-2026 (Saturday) 
+- Implemented Linear Search for unsorted and sorted arrays
+- Implemented Binary Search for sorted arrays
+- Compared performance based on input size, analyzed time, and space complexity for both algorithms
+
+## Week 6: Run-time Analysis, Generics, and scenario-based
+
+### Day 27 :- 19-Jan-2026 (Monday) 
+- Participated in a technical review session
+- Revised and discussed Runtime Analysis concepts
+- Practiced Big-O Notation–based interview question
+
+### Day 28 :- 20-Jan-2026 (Tuesday) 
+- Practiced scenario-based interview questions focused on real-world problem understanding
+- Analyzed scenarios related to Data Structures and Algorithms
+- Reviewed time and space complexity for common algorithms
+- Practiced questions to compare the performances of data structures
+
+### Day 29 :- 21-Jan-2026 (Wednesday) 
+- Implemented Java Generics to create type-safe classes and methods
+- Designed generic methods to work with multiple data types
+- Used bounded type parameters where applicable and eliminated explicit type casting using generics
