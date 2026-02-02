@@ -62,6 +62,26 @@ BridgeLabz-Training
 |     +--scenario-based (Folder)
 |     |
 +--review
+|     |
++--collections-practice (Branch)
+|     |
+|     +--gcr-codebase (Folder)
+|     |  +- generics
+|     |  +- list_interface
+|     |  +- set_interface
+|     |  +- map_interface
+|     |  +- queue_interface
+|     |  +- insurance_policy_management_system
+|     |  +- banking_system
+|     |  +- voting_system
+|     |  +- shopping_cart
+|     |  +- streams
+|     |  +- exception
+|     |
+|     +--leetcode-codebase (Folder)
+|     |
+|     +-- scenario-based (Folder)
++--review
 ```
 ## Week 1: Getting Started with Java and Its Basics
 
@@ -245,3 +265,23 @@ BridgeLabz-Training
 - Implemented Java Generics to create type-safe classes and methods
 - Designed generic methods to work with multiple data types
 - Used bounded type parameters where applicable and eliminated explicit type casting using generics
+
+### Day 30 :- 22-Jan-2026 (Thursday) 
+- Studied Java Collections Framework in depth
+- Compared different implementations and use cases and implemented programs
+- Revised core collection interfaces - List, Set, Map, and Queue
+
+### Day 31 :- 23-Jan-2026 (Friday) 
+- Studied Java Streams API for functional-style data processing
+- Understood stream pipeline concepts - Source, Intermediate operations, and Terminal operations
+- Practiced stream-based examples on collections
+
+### Day 32 :- 27-Jan-2026 (Tuesday) 
+- Studied Exception Handling in Java
+- Practiced handling runtime and compile-time exceptions
+- Understands Exception propagation
+
+### Day 33 :- 28-Jan-2026 (Wednesday) 
+- Practiced scenario-based problems using Java Collections Framework
+- Focused on selecting the right collection based on real-world requirements
+- Better understanding of performance and memory trade-offs
