@@ -56,12 +56,14 @@ BridgeLabz-Training
 |     |
 |     +--gcr-codebase (Folder)
 |     |  +- linkedlist
+|     |  +- linear_and_binary_search
+|     |  +- runtime_analysis_bigO
+|     |  +- sorting_algorihms
+|     |  +- stack_queue_hashmap
 |     |
 |     +--leetcode-codebase (Folder)
 |     |
 |     +--scenario-based (Folder)
-|     |
-+--review
 |     |
 +--collections-practice (Branch)
 |     |
@@ -77,10 +79,41 @@ BridgeLabz-Training
 |     |  +- shopping_cart
 |     |  +- streams
 |     |  +- exception
+|     |  +- regex
+|     |  +- annotation
+|     |  +- reflection
+|     |  +- Junit
 |     |
 |     +--leetcode-codebase (Folder)
 |     |
 |     +-- scenario-based (Folder)
+|     |
++--io-prcatice (Branch)
+|     |
+|     +- gcr-codebase (Folder)
+|     |  +- csv_data_handling
+|     |  +- json_handling
+|     |
++--java8-features-practice (Branch)
+|     |
+|     +- gcr-codebase (Folder)
+|     |  +- collectors
+|     |  +- functional_interface
+|     |  +- lambda_expression
+|     |  +- stream_API
+|     |
+|     +- scenario-based (Folder)
+|     |
++--multi-threading-practice (Branch)
+|     |
+|     +- gcr-codebase (Folder)
+|     |  +- multi_threading
+|     |
++--designing-practice (Folder)
+|     |
+|     +- gcr-codebase (Folder)
+|     |  +- UML Diagrams
+|     |  +- smart_university_library
 +--review
 ```
 ## Week 1: Getting Started with Java and Its Basics
@@ -285,3 +318,98 @@ BridgeLabz-Training
 - Practiced scenario-based problems using Java Collections Framework
 - Focused on selecting the right collection based on real-world requirements
 - Better understanding of performance and memory trade-offs
+- 
+### Day 34 :- 29-Jan-2026 (Thursday) 
+-Implemented a string-based puzzle involving two input words
+-Performed conditional string transformations and analysis based on given rules
+-Ensured case-insensitive comparison and proper input validation
+
+### Day 35 :- 30-Jan-2026 (Friday) 
+-Implemented a string transformation utility to demonstrate ASCII-based filtering and string manipulation
+-Focused on data cleansing, reversal, and positional character transformation
+-Designed to reinforce concepts related to encoding, validation, and security-style logic
+
+### Day 36 :- 1-Feb-2026 (Sunday) 
+-Studied and practiced Regular Expressions (Regex) for pattern matching and validation
+-Created a Maven project to implement Junit
+-Learned JUnit for writing and executing unit tests in Java applications
+
+### Day 37 :- 2-Feb-2026 (Monday) 
+Designed a logistics management system to calculate transport charges for different goods
+Implemented object-oriented principles to handle multiple transport types
+Applied scenario-based decision making for vehicle selection and pricing
+
+### Day 38 :- 3-Feb-2026 (Tuesday) 
+-Understand and implement Java Annotations and Reflection API.
+-Demonstrate how annotations can be defined and processed at runtime using reflection.
+-Highlights how metadata-driven programming can simplify complex logic and improve extensibility.
+
+### Day 39 :- 4-Feb-2026 (Wednesday) 
+-To read, write, and process data stored in CSV (Comma-Separated Values) format.
+-To understand how structured data can be handled efficiently using Java.
+-To perform basic data validation and manipulation on CSV records.
+-To read, write, and manipulate data stored in JSON (JavaScript Object Notation) format.
+-To perform parsing and validation of JSON data using Java.
+
+### Day 40 :- 5-Feb-2026 (Thursday)
+-Participated in a technical review session.
+-Attended mentor interaction session with Capgemini professionals.
+-Practiced real-time, scenario-based coding problems.
+
+### Day 41 :- 6-Feb-2026 (Friday) 
+-Implemented scenario-based validation systems using custom exceptions to handle real-world constraints and error conditions.
+-Implemented a robot hazard risk analyzer with strict validation rules and custom exception handling for safe operational assessment.
+-Developed a flight validation and fuel management system using custom exception handling and business rule enforcement.
+-Strengthened understanding of defensive programming, clean error messaging, and modular code structure through practical problem-solving.
+
+### Day 42 :- 7-Feb-2026 (Saturday) 
+-Implemented a C# console application using Lambda expressions and LINQ to analyze creators’ weekly engagement data.
+-Developed features to register creators, filter top-performing weeks using threshold logic, and compute overall average likes dynamically.
+-Practiced Lambda Expression for functional-style programming.
+-Strengthened understanding of data aggregation, conditional filtering, and menu-driven program flow without abrupt termination methods.
+-Implemented a scenario-based fleet management system to process and validate ship/fleet operational data.
+
+### Day 43 :- 8-Feb-2026 (Sunday) 
+-Implemented Functional Interfaces (Predicate, Function, Consumer, Supplier) to perform filtering, transformation, and data processing using Lambda expressions.
+-Applied Stream API with Collectors (Collectors.toList(), groupingBy(), counting(), averaging()) for efficient data aggregation and manipulation.
+-Strengthened understanding of functional programming concepts in Java, including stream pipelines and collector-based result transformation.
+-Studied and implemented core Design Patterns such as Singleton, Factory, and Observer to improve code structure and reusability.
+
+### Day 44 :- 9-Feb-2026 (Monday) 
+-Implemented multi-threaded programs using the Thread class and Runnable interface to execute tasks concurrently.
+-Practiced thread lifecycle management, including start(), sleep(), join(), and synchronization concepts.
+-Strengthened understanding of concurrency, parallel execution, and performance optimization in Java.
+-Day 45 :- 10-Feb-2026 (Tuesday)
+-Appeared for a mock technical assessment consisting of 3 problem-solving questions.
+-Applied concepts of DSA, OOP, and logical reasoning under time constraints.
+-Analyzed performance and identified areas for improvement based on a problem-solving approach.
+
+### Day 46 :- 11-Feb-2026 (Wednesday)
+-Explored SonarQube for static code analysis to detect bugs, code smells, and security vulnerabilities.
+-Understood key metrics such as code coverage, technical debt, duplications, and maintainability rating.
+-Configured SonarQube with Maven and Docker for local project analysis.
+
+### Day 47 :- 12-Feb-2026 (Thursday)
+-Attended a technical review session for the mock exam and analyzed solutions for the given problems.
+-Received feedback on code optimization, logic building, and best coding practices.
+-Participated in the Thursday Connect session with Capgemini mentors, discussing industry expectations and problem-solving approaches.
+
+### Day 48 :- 13-Feb-2026 (Friday) 
+-Completed project submission after performing code quality analysis using SonarQube and resolving identified bugs and code smells.
+-Implemented JUnit test cases to validate scenario-based logic and ensure functional correctness.
+-Strengthened understanding of test-driven validation, quality gates, and clean code practices.
+
+### Day 49 :- 14-Feb-2026 (Saturday)
+-Enhanced the Address Book application by implementing additional use cases such as add, edit, delete, search, and multiple record management.
+-Extended the Employee Wage computation system with more business scenarios, including daily wage calculation, attendance conditions, and total wage limits.
+-Strengthened understanding of real-world problem modeling, edge case handling, and scalable program structure.
+
+### Day 50 :- 16-Feb-2026 (Monday)
+-Implemented additional use cases in existing projects to enhance functionality and improve real-world applicability.
+-Explored and understood the fundamentals of JDBC (Java Database Connectivity) for database interaction.
+-Learned how to establish database connections, execute SQL queries, and handle ResultSet operations.
+
+### Day 51 :- 17-Feb-2026 (Tuesday) 
+-Completed and submitted all remaining use cases for the Address Book and Employee Wage applications.
+-Ensured full implementation of CRUD operations, validation rules, and business logic scenarios as per requirements.
+-Verified functionality through multiple test scenarios to ensure accuracy and reliability of output.
