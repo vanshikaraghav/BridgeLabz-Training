@@ -116,7 +116,6 @@ BridgeLabz-Training
 |     |  +- smart_university_library
 +--review
 ```
-## Week 1: Getting Started with Java and Its Basics
 
 ### Day 1 :- 16-Dec-2025 (Tuesday) 
 
@@ -150,8 +149,6 @@ BridgeLabz-Training
 - Learned array declaration, initialization, and traversal in Java
 - Improved logic-building and data handling through array operations
 
-## Week 2:  Core Programming
-
 ### Day 7 :- 22-Dec-2025 (Monday) 
 
 - Completed Level 1 assignments of the Strings module
@@ -180,8 +177,6 @@ BridgeLabz-Training
 
 - Completed extra questions on strings
 - Learned understanding of String manipulation, logic building, and use of core Java String methods.
-
-## Week 3:  Scenario-based problems, basic OOP Concept
 
 ### Day 12 :- 29-Dec-2025 (Monday) 
 
@@ -221,8 +216,6 @@ BridgeLabz-Training
 - Practiced multilevel and hierarchical inheritance through real-world examples
 - Improved program structure by following IS-A relationship principles
 
-## Week 4:  OOP Pillars, scenario-based, story-based, and basic DSA
-
 ### Day 17 :- 5-Jan-2026 (Monday) 
 
 - Applied OOP principles like encapsulation, abstraction, interfaces, and polymorphism to design clean, secure, and modular code
@@ -246,8 +239,6 @@ BridgeLabz-Training
 - Created a new Branch dsa-practice to organize dsa-related work
 - Learned Linked List concepts, including basic operations (insertion, deletion, traversal)
 - Understanding node structure and pointers
-
-## Week 5: Scenario-based questions and DSA Concepts
 
 ### Day 21 :- 12-Jan-2026 (Monday) 
 
@@ -280,8 +271,6 @@ BridgeLabz-Training
 - Implemented Linear Search for unsorted and sorted arrays
 - Implemented Binary Search for sorted arrays
 - Compared performance based on input size, analyzed time, and space complexity for both algorithms
-
-## Week 6: Run-time Analysis, Generics, and scenario-based
 
 ### Day 27 :- 19-Jan-2026 (Monday) 
 - Participated in a technical review session
