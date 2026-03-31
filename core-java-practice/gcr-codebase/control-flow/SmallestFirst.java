@@ -1,0 +1,20 @@
+package control_flow;
+
+import java.util.Scanner;
+
+public class SmallestFirst {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		int firstNum = sc.nextInt();
+		int secondNum = sc.nextInt();
+		int thirdNum = sc.nextInt();
+		if(firstNum<secondNum && firstNum<thirdNum) {
+			System.out.println("Is the first number the smallest? Yes");
+		}else {
+			System.out.println("Is the first number the smallest? No");
+		}
+	}
+
+}
